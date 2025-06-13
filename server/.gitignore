@@ -1,0 +1,25 @@
+# Dependency folders
+node_modules
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS-related
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+*.swp
+
+# Package managers (optional)
+package-lock.json
+yarn.lock
+
+# Build
+dist/
